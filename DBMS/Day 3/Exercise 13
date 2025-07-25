@@ -1,1 +1,0 @@
-select prodid,price,category from product

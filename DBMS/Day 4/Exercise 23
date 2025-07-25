@@ -1,1 +1,0 @@
-select prodid,pdesc,category from product where lower(category)='electronics'

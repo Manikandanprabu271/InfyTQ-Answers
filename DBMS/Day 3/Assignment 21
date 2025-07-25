@@ -1,1 +1,0 @@
-select quotationid,sname,itemcode,quotedprice,qdate,qstatus from quotation where qstatus <> 'Accepted'

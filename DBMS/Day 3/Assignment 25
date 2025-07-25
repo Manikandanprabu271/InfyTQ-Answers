@@ -1,1 +1,0 @@
-select itemcode,descr,price from item where category='B' AND descr like '%Shirt' or descr like '%Skirt'
